@@ -1,1 +1,1 @@
-ATM card reader configuration: READY
+ATM-DEMO-CARD
